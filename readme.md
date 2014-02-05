@@ -1,0 +1,3 @@
+# sindresorhus
+
+> sindresorhus.
