@@ -1,3 +1,3 @@
 # sindresorhus
 
-> sindresorhus.
+> sindresorhus
