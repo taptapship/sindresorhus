@@ -2,7 +2,9 @@
 
 > sindresorhus
 
+<<<<<<< HEAD
 ![](http://imgur.com/SN8eQ7A.jpg)
+=======
 
 ## License
 
@@ -14,3 +16,4 @@
 <br />
 This work (<span property="dct:title">sindresorhus</span>, by <span resource="[_:creator]" rel="dct:creator"><span property="dct:title">sindresorhus</span></span>) is free of known copyright restrictions.
 </p>
+>>>>>>> add license - fixes #5
