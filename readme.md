@@ -2,7 +2,7 @@
 
 > sindresorhus
 
-<<<<<<< HEAD
+<<<![https://cloud.githubusercontent.com/assets/170270/4090515/c0ceb5a0-2f7d-11e4-9867-07130635ce5f.jpg](https://cloud.githubusercontent.com/assets/170270/4090515/c0ceb5a0-2f7d-11e4-9867-07130635ce5f.jpg)<<<< HEAD
 ![](http://imgur.com/SN8eQ7A.jpg)
 =======
 
